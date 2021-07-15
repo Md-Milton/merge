@@ -5,6 +5,7 @@ public class Main {
 		 
 		System.out.println(addStrings("string1","string2"));
 	}
+	
 
 	
 	 public static String addStrings(String num1, String num2) {
